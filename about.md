@@ -1,4 +1,9 @@
 ---
+layout: default
 title: About
 ---
-# A person. Or maybe not. Not sure yet.
+
+name: Eliot Smith
+age: 40's
+last seen: Butte, MT
+
