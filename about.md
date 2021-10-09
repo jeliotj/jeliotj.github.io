@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# { title }
+# {{ title }}
 
 name: Eliot Smith
 
