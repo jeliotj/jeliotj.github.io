@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# {{ title }}
+# {{ page.title }}
 
 name: Eliot Smith
 
