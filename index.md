@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-### ElIoTsMiTh . ORG
+### You are here
