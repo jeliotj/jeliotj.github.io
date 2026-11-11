@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+$base-font-family: "Source Serif 4", Georgia, serif;
+$heading-font-family: "Libre Baskerville", serif;
+
+body {
+  font-family: $base-font-family;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
