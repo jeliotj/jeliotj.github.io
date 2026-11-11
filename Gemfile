@@ -10,3 +10,5 @@ gem "bigdecimal"
 gem "logger"
 
 gem "base64", "~> 0.3.0"
+
+gem "kramdown-parser-gfm", "~> 1.1"
