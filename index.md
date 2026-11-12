@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Currently working on restoring a Philco 37-670 antique radio. Posts of the process to follow.
+I am fascinated by new and old electronics and enjoy learning how everything works. This is a place for me to log my projects.
