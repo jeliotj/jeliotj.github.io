@@ -15,7 +15,7 @@ attempt at restoring an antique radio and should be a fun ride with lots of
 bumps and turns.
 
 ### The Front of the Cabinet 
-![Philco 37-670 Cabinet 1](/assets/images/philco-cabinet-1.jpg)
+![Philco 37-670B tombstone walnut cabinet front dial and knobs](/assets/images/philco-cabinet-1.jpg)
 
 The cabinet is a walnut veneer and seems to be in decent shape.
 The image here was taken immediately after I got it home, complete with all the
@@ -33,7 +33,7 @@ point. Overall, I'm quite happy with the cabinet and look forward to seeing
 what it looks like after cleaning and waxing.
 
 ### The Back of the Cabinet: Chassis and Speaker 
-![Philco 37-670 Chassis 1](/assets/images/philco-chassis-1.jpg)
+![Philco 37-670B cabinet back showing chassis with tubes and field coil speaker ](/assets/images/philco-chassis-1.jpg)
 
 According to the [Philco service
 manual](/assets/docs/philco-service-manual.pdf), the 37-670 is "an 11 tube
@@ -58,7 +58,7 @@ resistance from the schematic. It measured ~1140 &Omega; and the spec shows
 1200 &Omega; so that is great news. 
 
 ### Chassis Underside
-![Philco 37-670 Chassis Underside](/assets/images/chassis-underside.jpg)
+![Philco 37-670B chassis underside showing point-to-point wiring, paper capacitors and sections](/assets/images/chassis-underside.jpg)
 
 The underside of the chassis looks rust free (phew!) and the wiring is in relatively
 good shape with no obvious breaks or signs of mouse activity, a concern when
