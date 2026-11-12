@@ -1,5 +1,13 @@
 title: Vintage E
 author: Eliot Smith
 description: Exploring old electronics through restoration and repair
+url: "https://eliotsmith.org"
+baseurl: ""
+
 theme: minima
 show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
