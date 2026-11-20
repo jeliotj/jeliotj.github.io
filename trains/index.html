@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Train Videos
 sitemap: false
 ---
 
@@ -16,7 +15,7 @@ sitemap: false
       {% unless item.url == page.url %}
         <li style="margin: 1rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
           <a href="{{ item.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
-            {{ item.title | default: item.url }}
+            {{ item.video_title | default: item.url }}
           </a>
           {% if item.description %}
             <p style="margin: 0.4rem 0 0; color: #555; font-size: 0.95rem;">
