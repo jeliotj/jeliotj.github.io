@@ -1,0 +1,30 @@
+---
+layout: default
+title: Train Videos
+sitemap: false
+---
+
+<meta name="robots" content="noindex, nofollow">
+
+<div style="max-width: 800px; margin: 2rem auto; padding: 0 1rem;">
+  <h1>Train Videos</h1>
+  <p>Click a video below to watch:</p>
+
+  <ul style="list-style: none; padding: 0;">
+    {% assign train_pages = site.pages | where_exp: "p", "p.url contains '/trains/'" | sort: "date" | reverse %}
+    {% for item in train_pages %}
+      {% unless item.url == page.url %}
+        <li style="margin: 1rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+          <a href="{{ item.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; text-decoration: none;">
+            {{ item.title | default: item.url }}
+          </a>
+          {% if item.description %}
+            <p style="margin: 0.4rem 0 0; color: #555; font-size: 0.95rem;">
+              {{ item.description }}
+            </p>
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
